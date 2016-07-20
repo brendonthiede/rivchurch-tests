@@ -1,7 +1,6 @@
 <html>
-<html>
 <head>
-<title>Test stuff</title>
+    <title>Test stuff</title>
 </head>
 <body>
 <div><a href="geolocation.php">Geo Location test</a></div>
